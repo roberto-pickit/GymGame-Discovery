@@ -1,0 +1,3 @@
+[submodule "ArUco-markers-with-OpenCV-and-Python"]
+	path = ArUco-markers-with-OpenCV-and-Python
+	url = https://github.com/KhairulIzwan/ArUco-markers-with-OpenCV-and-Python.git
